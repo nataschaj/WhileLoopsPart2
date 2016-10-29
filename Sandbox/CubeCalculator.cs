@@ -16,6 +16,7 @@ namespace Sandbox
         }
 
         // Checks if the given string can be converted into an integer
+        //You tell C# to Try some code, and if can't do anything with it you can Catch the errors
         public bool IsANumber(String userInput)
         {
             try
